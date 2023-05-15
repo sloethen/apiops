@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "displayName": "Test1",
+    "secret": false,
+    "tags": [],
+    "value": "test value for artifacts"
+  }
+}
