@@ -1,1 +1,6 @@
 apimServiceName: lgbluekcapimproduction
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
