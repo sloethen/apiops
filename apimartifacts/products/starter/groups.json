@@ -6,9 +6,9 @@
     "name": "developers"
   },
   {
-    "name": "superuser"
+    "name": "guests"
   },
   {
-    "name": "guests"
+    "name": "superuser"
   }
 ]
